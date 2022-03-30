@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Michael-kh-debug
+- 👋 Hi, I’m @Michael-k
 - 👀 I’m interested in software and inbadded system development
 - 🌱 I’m currently learning computer engineering in jönköping university
 - 💞️ I’m looking to collaborate on ...
